@@ -155,7 +155,7 @@
 
     <!-- Plugin JavaScript -->
     <script src="<c:url value = '/resources/jquery-easing/jquery.easing.min.js'/>"></script>
-    <script src="<c:url value = '/resources/magnific-popup/jquery.magnific-popup.min.js'/>"></script>
+    <%-- <script src="<c:url value = '/resources/magnific-popup/jquery.magnific-popup.min.js'/>"></script> --%>
 
     <!-- Contact Form JavaScript -->
     <script src="<c:url value = '/resources/js/jqBootstrapValidation.js'/>"></script>
